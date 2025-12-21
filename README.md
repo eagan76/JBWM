@@ -34,8 +34,6 @@ int main() {
   }
 }
 ```
-> _Yeah, that's the full source._
-
 
 ## Why?
 Because software should be small, hackable and fun,
