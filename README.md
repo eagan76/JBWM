@@ -1,4 +1,4 @@
-# 1wm
+# JBWM Just Because Window Manager; Fork of 1wm
 > _The smallest, actually usable window manager._
 
 - _~20 LOC._
